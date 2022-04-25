@@ -22,7 +22,7 @@ variable "deploy-region" {
     default = {
     "prod" = "us-east-1a"
     "dev" = "us-east-1b"
-    "staging" = "us-east-1c"
+    "staging" = "us-east-1d"
   }
 }
 
